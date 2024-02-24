@@ -1,0 +1,7 @@
+{
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice@gmail.com",
+    "dob": "1990-01-01",
+    "updatedEmail": "alice.new@gmail.com"
+}
