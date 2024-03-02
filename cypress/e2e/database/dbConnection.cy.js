@@ -1,4 +1,4 @@
-const BackendPage = require('../pages/BackendPage')
+const BackendPage = require('../../pages/BackendPage')
 
 describe('DBConnection', () => {
 
